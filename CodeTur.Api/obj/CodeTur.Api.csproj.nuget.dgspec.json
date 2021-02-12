@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj": {}
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj": {
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj",
+        "projectUniqueName": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj",
         "projectName": "CodeTur.Api",
-        "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj",
-        "packagesPath": "C:\\Users\\duart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Api\\obj\\",
+        "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Api\\CodeTur.Api.csproj",
+        "packagesPath": "C:\\Users\\47529661825\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\duart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\47529661825\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,10 +25,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj"
+              "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj"
               }
             }
           }
@@ -40,7 +41,8 @@
         }
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -69,26 +71,39 @@
               "version": "[5.6.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+        "projectUniqueName": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
         "projectName": "CodeTur.Comum",
-        "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
-        "packagesPath": "C:\\Users\\duart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\obj\\",
+        "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+        "packagesPath": "C:\\Users\\47529661825\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\duart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\47529661825\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,6 +115,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -111,6 +127,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "BCrypt.Net-Core": {
               "target": "Package",
@@ -136,21 +153,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj": {
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj",
         "projectName": "CodeTur.Dominio",
-        "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj",
-        "packagesPath": "C:\\Users\\duart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj",
+        "packagesPath": "C:\\Users\\47529661825\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\duart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\47529661825\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,9 +179,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {
-                "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj"
+              "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {
+                "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj"
               }
             }
           }
@@ -177,6 +195,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Flunt": {
               "target": "Package",
@@ -202,21 +221,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj": {
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj",
         "projectName": "CodeTur.Infra.Data",
-        "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\duart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\CodeTur.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\47529661825\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\duart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\47529661825\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,9 +247,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj": {
-                "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj"
+              "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj": {
+                "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj"
               }
             }
           }
@@ -243,6 +263,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -284,7 +305,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

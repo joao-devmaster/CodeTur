@@ -37,7 +37,7 @@ namespace CodeTur.Api
             });
 
             services.AddDbContext<CodeTurContext>(o => o.UseSqlServer
-                (@"Data Source=DESKTOP-8NPEQKL\SQLEXPRESS;
+                (@"Data Source=DESKTOP-VFV613U;
                 Initial Catalog=CodeTur;
                 user id=sa;
                 password=sa132"));

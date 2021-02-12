@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {}
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {
+    "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+        "projectUniqueName": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
         "projectName": "CodeTur.Comum",
-        "projectPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
-        "packagesPath": "C:\\Users\\duart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duart\\OneDrive\\Área de Trabalho\\CodeTur_API\\CodeTur\\CodeTur.Comum\\obj\\",
+        "projectPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+        "packagesPath": "C:\\Users\\47529661825\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\47529661825\\Downloads\\senai\\CodeTur_API\\CodeTur\\CodeTur.Comum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\duart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\47529661825\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "BCrypt.Net-Core": {
               "target": "Package",
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
