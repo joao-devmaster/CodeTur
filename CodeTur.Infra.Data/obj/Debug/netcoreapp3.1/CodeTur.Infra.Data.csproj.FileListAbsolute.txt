@@ -1,0 +1,68 @@
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.deps.json
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.json
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.dev.json
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfo.cs
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CopyComplete
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.genruntimeconfig.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.deps.json
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.json
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.dev.json
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfo.cs
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CopyComplete
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.genruntimeconfig.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.deps.json
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.json
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.dev.json
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfo.cs
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CopyComplete
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.genruntimeconfig.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.csproj.CopyComplete
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Infra.Data\obj\Debug\netcoreapp3.1\CodeTur.Infra.Data.genruntimeconfig.cache

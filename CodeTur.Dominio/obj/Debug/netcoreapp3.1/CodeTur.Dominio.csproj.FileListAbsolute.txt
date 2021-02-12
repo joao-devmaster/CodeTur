@@ -1,0 +1,48 @@
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csprojAssemblyReference.cache
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfo.cs
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.deps.json
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CopyComplete
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\pc\Documents\cODEtUR\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.deps.json
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csprojAssemblyReference.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfoInputs.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfo.cs
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CopyComplete
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\45467298801\Documents\cODEtUr\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.deps.json
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfo.cs
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CopyComplete
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\pc\Desktop\codetur\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CopyComplete
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CodeTur_API\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
